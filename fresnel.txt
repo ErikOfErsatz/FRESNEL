@@ -1,0 +1,8 @@
+FREE RESOURCE for EDITING STARS, NABBED-ITEMS, ENERGY, & LOCATIONS
+
+Save file viewer/editor for Eternity Egg. I suck at programming and especially file reading. This is actually my first
+time messing with it in any real capacity, and if you're reading this then this is the first thing ive made that's
+publicly available. Thank you.
+
+P.S. this will most likely fuck up your save. The first time i added a checkpoint to my save i also got 7 copies of
+Pinkbobble. Not sure why. Use your backups. Good luck.
